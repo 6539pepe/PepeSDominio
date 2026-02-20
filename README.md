@@ -1,0 +1,2 @@
+# PepeSDominio
+Scrip TERMUX
