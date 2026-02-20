@@ -1,7 +1,6 @@
 ## INSTALACIÓN
 ```
-git clone https://github.com/barba99/Traductor 
-cd Traductor 
+git clone https://github.com/6539pepe/PepeSDominio 
 python traductor.py
 ```
 
